@@ -12,6 +12,7 @@ This application is not meant to be public to customers, it's purpose is to make
 - This app uses ruby version 2.1.0.
 
 Once you have these installed, run a bundle install and you can access the application.
+You can login using 'admin@krystalklear.com', with '123456' as the password.
 
 ## Contributing
 - Follow the AirBnB styleguide
