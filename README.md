@@ -1,21 +1,16 @@
 # Krystal Klear Window Cleaning Service
 
 ## Application Summary
-This application allows an admin to make weekly schedules for his/her employees. The admin will see a list of all jobs for the week and can assign each employee a route for the day.
-
-Each employee can also sign in and see his/her work schedule for the week.
+Our group was tasked with adding a 'Grid' to an existing app to centralize the employee scheduling.  An admin can see a list of all jobs for the week and can assign each employee a routes for the week.  Each employee can sign in and see his/her work schedule.
 
 This application is not meant to be public to customers, it's purpose is to make Krystal Klear Window Cleaning Services less paper dependent.
 
 ## Getting Started
 - You must have postgres installed on your machine.
-- This app uses ruby version 2.1.0.
+- This app uses Ruby version 2.1.5
 
-Once you have these installed, run a bundle install and you can access the application.
+Once you have these installed, run `bundle install` and you can access the application by running a local server using `rails s`.
 
-## Contributing
-- Follow the AirBnB styleguide
-- Follow the git workflow
 
-## Deploying
-- Deploy to Heroku
+Screenshot of the 'Grid'
+![website screenshot](krystal_klear-screenshot.png "Screenshot of mockup")
