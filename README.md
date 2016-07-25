@@ -1,7 +1,7 @@
 # Krystal Klear Window Cleaning Service
 
 ## Application Summary
-Our group was tasked with adding a 'Grid' to an existing app to centralize the employee scheduling.  An admin can see a list of all jobs for the week and can assign each employee a routes for the week.  Each employee can sign in and see his/her work schedule.
+Our group was tasked with adding a 'Grid' to an existing app to centralize the employee scheduling.  An admin can see a list of all jobs for the week and can assign each employee routes for the week.  Each employee can sign in and see his/her work schedule.
 
 This application is not meant to be public to customers, it's purpose is to make Krystal Klear Window Cleaning Services less paper dependent.
 
