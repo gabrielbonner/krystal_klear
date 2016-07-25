@@ -10,6 +10,7 @@ This application is not meant to be public to customers, it's purpose is to make
 - This app uses Ruby version 2.1.5
 
 Once you have these installed, run `bundle install` and you can access the application by running a local server using `rails s`.
+You can login using 'admin@krystalklear.com', with '123456' as the password.
 
 
 Screenshot of the 'Grid'
